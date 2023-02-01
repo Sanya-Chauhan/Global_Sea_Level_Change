@@ -181,10 +181,6 @@ test7$p.value
 test8$p.value
 #1.729527e-07
 
-#We set up the null hypothesis which states that residuals are independent. 
-#We observe that the p-value is significant for the first and fourth model i.e. 
-#AR(1) and AR(4). However, as we increase the parameters, it leads to a fall in 
-#efficiency. Hence, we choose AR(1) model since it is the most appropriate.
 
 summary(fit1)
 plot(fit1)
