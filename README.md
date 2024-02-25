@@ -20,8 +20,8 @@
   - Used Additive Model
   - Decomposed Components: Trend, Seasonality, Residual Series with Random/White Noise
 
-    <img width="450" height="300" src="https://github.com/Sanya-Chauhan/Global_Sea_Level_Change/assets/116647771/b856e2c1-84ab-4fb4-92fb-c0fe3a9b0581">
-    <img width="450" height="300" src="https://github.com/Sanya-Chauhan/Global_Sea_Level_Change/assets/116647771/b9964748-f77a-41d5-bbd6-7e774e0cbf00">
+    <img width="360" height="240" src="https://github.com/Sanya-Chauhan/Global_Sea_Level_Change/assets/116647771/b856e2c1-84ab-4fb4-92fb-c0fe3a9b0581">
+    <img width="360" height="240" src="https://github.com/Sanya-Chauhan/Global_Sea_Level_Change/assets/116647771/b9964748-f77a-41d5-bbd6-7e774e0cbf00">
 
 3. **Individual Component Fitting:**
   - Trend: Fitted Cubic Curve (highest adjusted R^2 of 0.991 & least MSE)
