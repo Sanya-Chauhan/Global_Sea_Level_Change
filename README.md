@@ -32,10 +32,10 @@
 <img width="580" height="350" src="https://github.com/Sanya-Chauhan/Global_Sea_Level_Change/assets/116647771/1efbd625-00b0-4ea9-aaa9-482a50059e0a">
 
 ## Results and Inference
-- The fitted cubic curve explains 99.1% of the total trend component
+- The fitted cubic curve explains 99.1% of the total trend component.
 - The best Fit is AR(1) to forecast seasonality due to geometric decay in the ACF plot and sharp cut-off in the PACF Plot.
-- Out of an overall YoY rise of 3.2 ± 0.5 mm, 1.8 ± 0.41 mm is due to Climate Change (~43%)
-- The overall rise of 102.5 mm (approx. 4 inches) seen since 1993; the forecasted increase of approx. 109.6 mm till 2025 (i.e., ~ 6.9% rise in change in 4 years)
+- Out of an overall YoY rise of 3.2 ± 0.5 mm, 1.8 ± 0.41 mm is due to Climate Change (~43%).
+- The overall rise of 102.5 mm (approx. 4 inches) seen since 1993; the forecasted increase of approx. 109.6 mm till 2025 (i.e., ~ 6.9% rise in change in 4 years).
 
 ## Future Scope
 - Studying regional impact analysis with the inclusion of isostatic causes.
